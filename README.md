@@ -45,7 +45,7 @@ The project includes analysis of:
 
 ## Dashboard Pages
 
-### 1. Summary Dashboard
+### 1. Summary Dashboard | https://github.com/RamanBisht-77/Bank-Loan-Data-Analysis/blob/main/Bank%20Loan%20Summary%20Dashboard.png
 
 The Summary dashboard provides an overview of the loan portfolio through:
 
@@ -55,7 +55,7 @@ The Summary dashboard provides an overview of the loan portfolio through:
 - MTD and MoM metrics
 - Funded and received amount analysis
 
-### 2. Overview Dashboard
+### 2. Overview Dashboard | https://github.com/RamanBisht-77/Bank-Loan-Data-Analysis/blob/main/Bank%20Loan%20Overview%20Dashboard.png
 
 The Overview dashboard provides visual analysis of:
 
@@ -66,7 +66,7 @@ The Overview dashboard provides visual analysis of:
 - Loan purpose
 - Home ownership
 
-### 3. Details Dashboard
+### 3. Details Dashboard | https://github.com/RamanBisht-77/Bank-Loan-Data-Analysis/blob/main/Bank%20Loan%20Details%20Dashboard.png
 
 The Details dashboard provides loan-level information including:
 
